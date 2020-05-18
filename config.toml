@@ -1,4 +1,4 @@
-baseURL = "http://rhugmtl.org/"
+baseURL = "/"
 languageCode = "en-us"
 title = "RHUG Montreal"
 theme        = "ananke"

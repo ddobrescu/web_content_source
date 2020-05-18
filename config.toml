@@ -1,0 +1,8 @@
+baseURL = "http://rhugmtl.org/"
+languageCode = "en-us"
+title = "RHUG Montreal"
+theme        = "ananke"
+paginate     = 10
+
+[params]
+featured_image = "/images/461663747.jpeg"
